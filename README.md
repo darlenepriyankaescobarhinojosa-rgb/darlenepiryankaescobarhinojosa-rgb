@@ -201,3 +201,14 @@ Software Engineering
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
 </p>
+<p align="center">
+
+<img src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" width="600">
+
+</p>
+
+<p align="center">
+
+💜 *Turning ideas into technology.*
+
+</p>
