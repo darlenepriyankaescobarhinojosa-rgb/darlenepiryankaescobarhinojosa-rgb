@@ -1,58 +1,53 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=250&section=header&text=Darlene%20Escobar&fontSize=45&fontColor=ffffff"/>
-</p>
-
-<h1 align="center">💜 Hi, I'm Darlene Escobar</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=C084FC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Future+Full+Stack+Engineer;Passionate+about+Technology;Always+Learning+New+Things"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5B7E6&height=260&section=header&text=Darlene%20Escobar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-✨ Building technology with curiosity, creativity and purpose ✨
+<b>building things that matter 💜</b>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Computer%20Science-Student-F4A6D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Learning-CFA7F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Frontend-Building-F8C8DC?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:darlenepriyankaescobarhinojosa@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-IN%20PROGRESS-000000?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# 🐱 Welcome to my GitHub
+> Computer Science student with a product mindset.  
+> I enjoy building clean, functional solutions with purpose.  
+> Always in learning mode — always in build mode.
 
-<p align="center">
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="220"/>
-</p>
-
-<p align="center">
-💜 I'm a Computer Science student exploring software development,  
-building projects and growing every day as a developer.
-</p>
-
----
-
-# 🌸 About Me
+```
 
 ```javascript
 const darlene = {
 
  location: "📍 Lima, Perú",
 
- role: "Computer Science Student",
+ education: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
 
- focus: [
-   "Frontend Development",
-   "Backend Development",
-   "Software Engineering"
- ],
+ role: "Student Developer",
 
- interests: [
-   "Technology",
-   "Creative Problem Solving",
-   "Learning New Tools"
- ],
-
- currentlyLearning: [
-   "Cloud Computing",
-   "Artificial Intelligence",
-   "Backend Architecture"
- ]
+ goal_2026: "Build real products that impact thousands of users"
 
 };
 ```
