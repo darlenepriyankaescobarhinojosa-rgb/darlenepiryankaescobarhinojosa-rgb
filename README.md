@@ -43,25 +43,25 @@
 
 <p align="center">
 
-Apasionada por construir soluciones limpias, funcionales y con impacto.  
-Siempre explorando nuevas ideas y creando tecnología con propósito.
+              Apasionada por construir soluciones limpias, funcionales y con impacto.  
+              Siempre explorando nuevas ideas y creando tecnología con propósito.
 
 </p>
 
 ```javascript
-const darlene = {
+               const darlene = {
 
-  ubicación: "📍 Lima, Perú",
+                ubicación: "📍 Lima, Perú",
 
-  formación: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
+                formación: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
 
-  enfoque: [
-    "Backend Development",
-    "Frontend Development",
-    "Software Engineering"
-  ],
+                enfoque: [
+                    "Backend Development",
+                    "Frontend Development",
+                    "Software Engineering"
+                ],
 
-  meta: "Construir productos reales que impacten a miles de personas"
+                meta: "Construir productos reales que impacten a miles de personas"
 
 };
 ```
