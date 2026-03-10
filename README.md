@@ -1,16 +1,20 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5B7E6&height=260&section=header&text=Darlene%20Escobar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F3C1E8&height=260&section=header&text=Darlene%20Escobar&fontSize=60&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<b>building things that matter 💜</b>
+<img src="https://i.pinimg.com/originals/40/76/44/407644ee3d8673932cd02c4a0164b0c5.gif" width="120"/>
+</p>
+
+<p align="center">
+<b>Construyendo cosas que importan 💜</b>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Computer%20Science-Student-F4A6D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Learning-CFA7F2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Frontend-Building-F8C8DC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ciencia%20de%20la%20Computación-Estudiante-F4A6D7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-Aprendiendo-CFA7F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Frontend-Creando-F8C8DC?style=flat-square"/>
 
 </p>
 
@@ -25,29 +29,33 @@
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-IN%20PROGRESS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTAFOLIO-EN%20PROCESO-000000?style=for-the-badge"/>
 </a>
 
 </p>
 
----
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 💗 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
-> Computer Science student with a product mindset.  
-> I enjoy building clean, functional solutions with purpose.  
-> Always in learning mode — always in build mode.
+<p align="center">
+Estudiante de <b>Ciencia de la Computación</b> con mentalidad de producto.  
+Me gusta construir soluciones limpias, funcionales y con propósito.  
+Siempre en modo aprendizaje — siempre en modo construir.
+</p>
 
 ```
 
 ```javascript
 const darlene = {
 
- location: "📍 Lima, Perú",
+  ubicación: "📍 Lima, Perú",
 
- education: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
+  educación: "Ciencia de la Computación — Universidad de Ingeniería y Tecnología (UTEC)",
 
- role: "Student Developer",
+  rol: "Estudiante desarrolladora",
 
- goal_2026: "Build real products that impact thousands of users"
+  meta_2026: "Construir productos reales que impacten a miles de usuarios"
 
 };
 ```
