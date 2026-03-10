@@ -17,9 +17,7 @@
 <img src="https://img.shields.io/badge/Frontend-F1C0E8?style=flat-square"/>
 </p>
 
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
 <img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -31,16 +29,16 @@
 <a href="https://github.com/darlenepiryankaescobarhinojosa-rgb">
 <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
-            ────────────────────────────── 💜 ──────────────────────────────
+<p align="center">
+────────────────────────────── 💜 ──────────────────────────────
 </p>
 
 <p align="center">
 <i>
-Computer Science student building full-stack software. <br>
-Me gusta convertir ideas en productos reales. <br>
+Computer Science student building full-stack software.<br>
+Me gusta convertir ideas en productos reales.<br>
 Siempre aprendiendo, siempre creando tecnología con propósito.
 </i>
 </p>
@@ -129,13 +127,9 @@ Software Engineering
 
 <p align="center">
 
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/front-8m">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
-</a>
 
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/backend_8M">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
-</a>
 
 </p>
 
@@ -153,13 +147,15 @@ Software Engineering
 
 ---
 
+# 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=darlenepiryankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/>
-
 </p>
 
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
 
@@ -177,10 +173,13 @@ Software Engineering
 
 </p>
 
+---
 
 <p align="center">
-🌸 *"Technology allows us to transform ideas into real impact."*
-   Designed with love by Darlene Escobar💜
+
+🌸 *"Technology allows us to transform ideas into real impact."*  
+💜 Designed with love by **Darlene Escobar**
+
 </p>
 
 ---
