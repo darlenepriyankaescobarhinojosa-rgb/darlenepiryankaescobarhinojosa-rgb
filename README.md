@@ -1,16 +1,15 @@
-# darlenepiryankaescobarhinojosa-rgb
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=230&section=header&text=Darlene%20Escobar&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=250&section=header&text=Darlene%20Escobar&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">💜 Hi, I'm Darlene Escobar</h1>
 
-<h3 align="center">
-Computer Science Student • Full Stack Developer
-</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=C084FC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Future+Full+Stack+Engineer;Passionate+about+Technology;Always+Learning+New+Things"/>
+</p>
 
 <p align="center">
-✨ Building technology with purpose ✨
+✨ Building technology with curiosity, creativity and purpose ✨
 </p>
 
 ---
@@ -18,11 +17,12 @@ Computer Science Student • Full Stack Developer
 # 🐱 Welcome to my GitHub
 
 <p align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="220"/>
 </p>
 
 <p align="center">
-💜 Passionate about technology, development and learning new things every day.
+💜 I'm a Computer Science student exploring software development,  
+building projects and growing every day as a developer.
 </p>
 
 ---
@@ -36,12 +36,16 @@ const darlene = {
 
  role: "Computer Science Student",
 
- specialization: "Full Stack Development",
-
  focus: [
    "Frontend Development",
    "Backend Development",
    "Software Engineering"
+ ],
+
+ interests: [
+   "Technology",
+   "Creative Problem Solving",
+   "Learning New Tools"
  ],
 
  currentlyLearning: [
@@ -57,47 +61,75 @@ const darlene = {
 
 # 💻 Tech Stack
 
-### 👩‍💻 Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,sql"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
 
-### ⚙ Backend
+### Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
 </p>
 
-### 🗄 Databases
+### Databases
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-### 🛠 Tools
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma"/>
-</p>
+# 🌟 Skills Growth
+
+Frontend  
+🟣🟣🟣🟣⚪ 80%
+
+Backend  
+🟣🟣🟣⚪⚪ 65%
+
+Databases  
+🟣🟣🟣⚪⚪ 60%
+
+Software Engineering  
+🟣🟣🟣🟣⚪ 75%
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-| 💻 Project | 📖 Description | 🛠 Contribution | ⚡ Technologies |
-|-------------|---------------|----------------|----------------|
-| ♟ Chess | Chess interface focused on layout and styling | Frontend development | HTML, CSS |
-| 💻 Front-8M | Frontend application built during coursework | UI components & interface | TypeScript |
-| ⚙ Backend_8M | Backend service handling server logic | Backend development | Python |
-| 🔐 Ayni Project | Security system developed in team | Frontend & backend | Full Stack |
-| 📦 Mistral | Backend architecture project | Backend implementation | Python |
+| 💜 Project | Description | My Role | Technologies |
+|------------|------------|---------|--------------|
+| ♟ Chess | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
+| 💻 Front-8M | Coursework frontend application | UI Development | TypeScript |
+| ⚙ Backend-8M | Backend service handling data processing | Backend Developer | Python |
+| 🔐 Ayni Project | Security platform developed collaboratively | Full Stack Contributor | Full Stack |
+| 📦 Mistral | Backend architecture project | Backend Implementation | Python |
+
+---
+
+# ⭐ Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/front-8m">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/backend_8M">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
+
+</a>
+
+</p>
 
 ---
 
@@ -113,30 +145,12 @@ const darlene = {
 
 ---
 
-# 🏆 GitHub Achievements
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=darlenepiryankaescobarhinojosa-rgb&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://komarev.com/ghpvc/?username=darlenepiryankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/>
 
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darlenepiryankaescobarhinojosa-rgb&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -146,11 +160,15 @@ const darlene = {
 <p align="center">
 
 <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
-<img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-9370DB?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@email.com">
+<img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/darlenepiryankaescobarhinojosa-rgb">
-<img src="https://img.shields.io/badge/GitHub-Profile-9370DB?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -158,9 +176,18 @@ const darlene = {
 ---
 
 <p align="center">
+
+🌸 *"I believe technology is a way to turn ideas into solutions that make an impact."*
+
+</p>
+
+<p align="center">
 💜 Designed with love by Darlene Escobar
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
 </p>
