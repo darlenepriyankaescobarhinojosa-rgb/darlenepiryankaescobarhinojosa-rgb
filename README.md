@@ -1,20 +1,23 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F3C1E8&height=260&section=header&text=Darlene%20Escobar&fontSize=60&fontColor=ffffff"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D8B4F8&height=300&section=header&text=Darlene%20Escobar&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/40/76/44/407644ee3d8673932cd02c4a0164b0c5.gif" width="120"/>
+<img src="https://i.pinimg.com/originals/40/76/44/407644ee3d8673932cd02c4a0164b0c5.gif" width="90"/>
 </p>
 
 <p align="center">
-<b>Construyendo cosas que importan 💜</b>
+<b>Construyendo tecnología con propósito 💜</b>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Ciencia%20de%20la%20Computación-Estudiante-F4A6D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-Aprendiendo-CFA7F2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Frontend-Creando-F8C8DC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Science-D8B4F8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-DDA0DD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Frontend-E9A8E6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Software%20Development-F3C1E8?style=flat-square"/>
 
 </p>
 
@@ -39,23 +42,26 @@
 </p>
 
 <p align="center">
-Estudiante de <b>Ciencia de la Computación</b> con mentalidad de producto.  
-Me gusta construir soluciones limpias, funcionales y con propósito.  
-Siempre en modo aprendizaje — siempre en modo construir.
-</p>
 
-```
+Apasionada por construir soluciones limpias, funcionales y con impacto.  
+Siempre explorando nuevas ideas y creando tecnología con propósito.
+
+</p>
 
 ```javascript
 const darlene = {
 
   ubicación: "📍 Lima, Perú",
 
-  educación: "Ciencia de la Computación — Universidad de Ingeniería y Tecnología (UTEC)",
+  formación: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
 
-  rol: "Estudiante desarrolladora",
+  enfoque: [
+    "Backend Development",
+    "Frontend Development",
+    "Software Engineering"
+  ],
 
-  meta_2026: "Construir productos reales que impacten a miles de usuarios"
+  meta: "Construir productos reales que impacten a miles de personas"
 
 };
 ```
