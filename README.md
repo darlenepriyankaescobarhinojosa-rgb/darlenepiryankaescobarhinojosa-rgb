@@ -38,32 +38,37 @@
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 💗 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ❤️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
 <p align="center">
 
-              Apasionada por construir soluciones limpias, funcionales y con impacto.  
-              Siempre explorando nuevas ideas y creando tecnología con propósito.
+Apasionada por construir soluciones limpias, funcionales y con impacto.  
+Siempre explorando nuevas ideas y creando tecnología con propósito.
 
 </p>
 
+<div align="center">
+
 ```javascript
-               const darlene = {
+const darlene = {
 
-                ubicación: "📍 Lima, Perú",
+  location: "📍 Lima, Perú",
 
-                formación: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
+  education: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
 
-                enfoque: [
-                    "Backend Development",
-                    "Frontend Development",
-                    "Software Engineering"
-                ],
+  focus: [
+    "Backend Development",
+    "Frontend Development",
+    "Software Engineering"
+  ],
 
-                meta: "Construir productos reales que impacten a miles de personas"
+  goal: "Construir productos reales que impacten a miles de personas"
 
 };
+```
+
+</div>
 ```
 
 ---
