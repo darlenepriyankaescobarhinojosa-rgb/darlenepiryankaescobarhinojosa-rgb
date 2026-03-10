@@ -42,15 +42,14 @@
 </p>
 
 <p align="center">
-
 Apasionada por construir soluciones limpias, funcionales y con impacto.  
 Siempre explorando nuevas ideas y creando tecnología con propósito.
-
 </p>
 
-<div align="center">
+<p align="center">
 
-```javascript
+<pre>
+
 const darlene = {
 
   location: "📍 Lima, Perú",
@@ -66,6 +65,10 @@ const darlene = {
   goal: "Construir productos reales que impacten a miles de personas"
 
 };
+
+</pre>
+
+</p>
 ```
 
 </div>
