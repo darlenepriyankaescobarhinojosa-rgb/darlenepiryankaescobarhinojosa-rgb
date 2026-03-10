@@ -1,11 +1,9 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D8B4F8&height=300&section=header&text=Darlene%20Escobar&fontSize=65&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6C9F2&height=280&section=header&text=Darlene%20Escobar&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/40/76/44/407644ee3d8673932cd02c4a0164b0c5.gif" width="90"/>
+<img src="https://i.pinimg.com/originals/40/76/44/407644ee3d8673932cd02c4a0164b0c5.gif" width="80"/>
 </p>
 
 <p align="center">
@@ -14,56 +12,51 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Computer%20Science-D8B4F8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-DDA0DD?style=flat-square"/>
-<img src="https://img.shields.io/badge/Frontend-E9A8E6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software%20Development-F3C1E8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Science-E6C9F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-D8B4F8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend-CDB4DB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Frontend-F1C0E8?style=flat-square"/>
 
 </p>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:darlenepriyankaescobarhinojosa@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/PORTAFOLIO-EN%20PROCESO-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-En%20Proceso-000000?style=for-the-badge"/>
 </a>
 
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ❤️ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────── 💜 ──────────────────────────────
 </p>
 
 <p align="center">
-Apasionada por construir soluciones limpias, funcionales y con impacto.  
-Siempre explorando nuevas ideas y creando tecnología con propósito.
+<i>
+Computer Science student y full-stack builder.  
+Me gusta transformar ideas en productos funcionales y bien diseñados.  
+Siempre explorando, aprendiendo y construyendo tecnología con propósito.
+</i>
 </p>
 
-<p align="center">
+<br>
 
-<pre>
+<div align="center">
 
+```javascript
 const darlene = {
-
   location: "📍 Lima, Perú",
-
   education: "Computer Science — Universidad de Ingeniería y Tecnología (UTEC)",
-
-  focus: [
-    "Backend Development",
-    "Frontend Development",
-    "Software Engineering"
-  ],
-
-  goal: "Construir productos reales que impacten a miles de personas"
-
+  focus: ["Full Stack Development", "Backend Systems", "Software Engineering"],
+  goal: "Construir productos tecnológicos reales que impacten a miles de personas"
 };
 
 </pre>
