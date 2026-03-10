@@ -11,12 +11,10 @@
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Computer%20Science-E6C9F2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Full%20Stack-D8B4F8?style=flat-square"/>
 <img src="https://img.shields.io/badge/Backend-CDB4DB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Frontend-F1C0E8?style=flat-square"/>
-
 </p>
 
 <p align="center">
@@ -49,8 +47,6 @@ Siempre explorando, aprendiendo y construyendo tecnología con propósito.
 
 <br>
 
-<div align="center">
-
 ```javascript
 const darlene = {
   location: "📍 Lima, Perú",
@@ -58,157 +54,46 @@ const darlene = {
   focus: ["Full Stack Development", "Backend Systems", "Software Engineering"],
   goal: "Construir productos tecnológicos reales que impacten a miles de personas"
 };
+💻 Tech Stack
+Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,java,sql"/> </p>
+Frontend
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/> </p>
+Backend
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,fastapi"/> </p>
+Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/> </p>
+🌟 Skills Growth
 
-</pre>
-
-</p>
-```
-
-</div>
-```
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,sql"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi"/>
-</p>
-
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-</p>
-
----
-
-# 🌟 Skills Growth
-
-Frontend  
+Frontend
 🟣🟣🟣🟣⚪ 80%
 
-Backend  
+Backend
 🟣🟣🟣⚪⚪ 65%
 
-Databases  
+Databases
 🟣🟣🟣⚪⚪ 60%
 
-Software Engineering  
+Software Engineering
 🟣🟣🟣🟣⚪ 75%
 
----
-
-# 🚀 Featured Projects
-
-| 💜 Project | Description | My Role | Technologies |
-|------------|------------|---------|--------------|
-| ♟ Chess | Chess interface focused on layout and styling | Frontend Developer | HTML • CSS |
-| 💻 Front-8M | Coursework frontend application | UI Development | TypeScript |
-| ⚙ Backend-8M | Backend service handling data processing | Backend Developer | Python |
-| 🔐 Ayni Project | Security platform developed collaboratively | Full Stack Contributor | Full Stack |
-| 📦 Mistral | Backend architecture project | Backend Implementation | Python |
-
----
-
-# ⭐ Featured Repositories
-
+🚀 Featured Projects
+💜 Project	Description	My Role	Technologies
+♟ Chess	Chess interface focused on layout and styling	Frontend Developer	HTML • CSS
+💻 Front-8M	Coursework frontend application	UI Development	TypeScript
+⚙ Backend-8M	Backend service handling data processing	Backend Developer	Python
+🔐 Ayni Project	Security platform developed collaboratively	Full Stack Contributor	Full Stack
+📦 Mistral	Backend architecture project	Backend Implementation	Python
+⭐ Featured Repositories
+<p align="center"> <a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/front-8m"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/> </a> <a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/backend_8M"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/> </a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=darlenepiryankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepiryankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darlenepiryankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/> </p>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/darlene-escobar-hinojosa"> <img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:darlenepriyankaescobarhinojosa@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/> </a> <a href="https://github.com/darlenepiryankaescobarhinojosa-rgb"> <img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/> </a> </p>
 <p align="center">
 
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/front-8m">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=front-8m&theme=tokyonight"/>
+🌸 "I believe technology is a way to turn ideas into solutions that make an impact."
 
-</a>
-
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb/backend_8M">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=darlenepiryankaescobarhinojosa-rgb&repo=backend_8M&theme=tokyonight"/>
-
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=darlenepiryankaescobarhinojosa-rgb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlenepiryankaescobarhinojosa-rgb&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=darlenepiryankaescobarhinojosa-rgb&color=DA70D6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/darlene-escobar-hinojosa">
-<img src="https://img.shields.io/badge/LinkedIn-Darlene_Escobar-E6A8D7?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-DDA0DD?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/darlenepiryankaescobarhinojosa-rgb">
-<img src="https://img.shields.io/badge/GitHub-Profile-C084FC?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-🌸 *"I believe technology is a way to turn ideas into solutions that make an impact."*
-
-</p>
-
-<p align="center">
-💜 Designed with love by Darlene Escobar
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=footer"/>
-</p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=footer"/>
-</p>
-<p align="center">
-
-<img src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" width="600">
-
-</p>
-
-<p align="center">
-
-💜 *Turning ideas into technology.*
-
-</p>
+</p> <p align="center"> 💜 Designed with love by Darlene Escobar </p> <p align="center"> <img src="https://i.pinimg.com/736x/c7/6d/f4/c76df40aeb819878fca5289fa5efbf98.jpg" width="600"> </p> ```
