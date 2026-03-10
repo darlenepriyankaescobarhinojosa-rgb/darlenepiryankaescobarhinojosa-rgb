@@ -153,7 +153,6 @@ Software Engineering
 
 ---
 
-# 👀 Profile Views
 
 <p align="center">
 
@@ -163,7 +162,6 @@ Software Engineering
 
 ---
 
-# 🤝 Connect With Me
 
 <p align="center">
 
@@ -183,14 +181,10 @@ Software Engineering
 
 ---
 
-<p align="center">
 
+<p align="center">
 🌸 *"Technology allows us to transform ideas into real impact."*
-
-</p>
-
-<p align="center">
-💜 Designed with love by Darlene Escobar
+   Designed with love by Darlene Escobar💜
 </p>
 
 ---
